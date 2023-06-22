@@ -1,0 +1,2 @@
+# Bug Tracking System project In Java
+ During the course of development of a software, there occurs a large number of bugs. A single programmer or sometimes a group of programmers may not be able to debug the system. In such cases, the issue needs to be shared among certain companies so that the problem can find an appropriate solution. And, a web-based tracking system is the best option to forecast the bugs and its proper debugging process.
